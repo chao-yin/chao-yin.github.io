@@ -1,2 +1,2 @@
-* Welcome to Chao's Page
+# Welcome to Chao's Page
 This is the first Blog.
