@@ -1,72 +1,787 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Chaos Blog</title>
-<meta name="generator" content="Jekyll v4.1.0" />
-<meta property="og:title" content="Chaos Blog" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Chaos Blog" />
-<script type="application/ld+json">
-{"@type":"WebSite","url":"http://localhost:4000/","headline":"Chaos Blog","name":"Chaos Blog","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Chaos Blog" /></head>
-<body><header class="site-header" role="banner">
+<html lang="en">
+<!-- <nav class="post-navigation" role="navigation"> -->
+<!--   <div class="row"> -->
+<!--     <div class="col s5"> -->
+<!--       <div class="post-nav-prev"> -->
+<!--          -->
+<!--       </div> -->
+<!--     </div> -->
+<!--     <div class="col s2"> -->
+<!--       <a href="http://localhost:4000/"> -->
+<!--         <div class="leonids-icon"> -->
+<!--           <i class="fa fa-leaf"></i> -->
+<!--         </div> -->
+<!--       </a> -->
+<!--     </div> -->
+<!--     <div class="col s5 right"> -->
+<!--       <div class="post-nav-next"> -->
+<!--          -->
+<!--       </div> -->
+<!--     </div> -->
+<!--   </div> -->
+<!-- </nav> -->
 
-  <div class="wrapper"><a class="site-title" rel="author" href="/">Chaos Blog</a><nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger"><a class="page-link" href="/about/">About</a></div>
-      </nav></div>
-</header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <div class="home">
-<h2 class="post-list-heading">Posts</h2>
-    <ul class="post-list"><li><span class="post-meta">Jul 27, 2020</span>
-        <h3>
-          <a class="post-link" href="/life/2020/07/27/my-first-post.html">
-            Welcome to Chao&#39;s Blog
-          </a>
-        </h3></li></ul>
-
-    <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div>
-
-      </div>
-    </main><footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">Chaos Blog</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">Chaos Blog</li></ul>
-      </div>
-
-      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+<div class="navigatebar">
+    <div class="navigatebar-button navigatebar-mine">
+        <a href="http://localhost:4000">Home</a>
+    </div>
+    <div class="navigatebar-button">
+        <a href="http://localhost:4000/site/categories/index.html">Tags</a>
+    </div>
+    <div class="navigatebar-button">
+        <a href="http://localhost:4000/archive.html">Archives</a>
+    </div>
+    <div class="navigatebar-button">
+        <a href="http://localhost:4000/tags.html">About</a>
+    </div>
+    <!-- <div class="navigatebar-button navigatebar-about"> -->
+    <!--     <a href="http://localhost:4000/about.html">About</a> -->
+    <!-- </div> -->
 </div>
 
-      <div class="footer-col footer-col-3">
-        <p></p>
-      </div>
+
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="A simple and awesome blog theme powered by jekyll.">
+  <meta name="keywords" content="blog and jekyll">
+  <meta name="author" content="Leonids">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f5f5f5">
+
+  <!-- Twitter Tags -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Leonids">
+  <meta name="twitter:description" content="A simple and awesome blog theme powered by jekyll.">
+  
+    <meta property="twitter:image" content="http://localhost:4000/img/leonids-logo.png">
+  
+
+  <!-- Open Graph Tags -->
+  <meta property="og:type" content="blog">
+  <meta property="og:url" content="http://localhost:4000/">
+  <meta property="og:title" content="Leonids">
+  <meta property="og:description" content="A simple and awesome blog theme powered by jekyll.">
+  
+    <meta property="og:image" content="http://localhost:4000/img/leonids-logo.png">
+  
+  <title>Leonids</title>
+
+  <!-- CSS files -->
+  <link rel="stylesheet" href="http://localhost:4000/css/font-awesome.min.css">
+  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
+
+  <link rel="canonical" href="http://localhost:4000/">
+  <link rel="alternate" type="application/rss+xml" title="Leonids" href="http://localhost:4000/feed.xml" />
+
+  <!-- Icons -->
+  <!-- 16x16 -->
+  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+  <!-- 32x32 -->
+  <link rel="shortcut icon" href="http://localhost:4000/favicon.png">
+</head>
+
+
+
+<body>
+  <div class="row">
+    <!-- <div class="col s12 m3"> -->
+    <!--   <div class="table cover"> -->
+    <!-- 	
+
+<div class="cover-card table-cell table-middle">
+  
+  <a href="http://localhost:4000/">
+    <img src="http://localhost:4000/img/leonids-logo.png" alt="" class="avatar">
+  </a>
+  
+  <a href="http://localhost:4000/" class="author_name">Leonids</a>
+  <span class="author_job">A jekyll theme</span>
+  <span class="author_bio mbm">A simple and awesome blog theme powered by jekyll.</span>
+  <nav class="nav">
+    <ul class="nav-list">
+      <li class="nav-item">
+        <a href="http://localhost:4000/">home</a>
+      </li>
+       
+      <li class="nav-item">
+        <a href="http://localhost:4000/archive">Archive</a>
+      </li>
+          
+      <li class="nav-item">
+        <a href="http://localhost:4000/categories/">Categories</a>
+      </li>
+            
+      <li class="nav-item">
+        <a href="http://localhost:4000/resume/">Resume</a>
+      </li>
+        
+      <li class="nav-item">
+        <a href="http://localhost:4000/tags">Tags</a>
+      </li>
+         
+    </ul>
+  </nav>
+  <script type="text/javascript">
+  // based on http://stackoverflow.com/a/10300743/280842
+  function gen_mail_to_link(hs, subject) {
+    var lhs,rhs;
+    var p = hs.split('@');
+    lhs = p[0];
+    rhs = p[1];
+    document.write("<a class=\"social-link-item\" target=\"_blank\" href=\"mailto");
+    document.write(":" + lhs + "@");
+    document.write(rhs + "?subject=" + subject + "\"><i class=\"fa fa-fw fa-envelope\"></i><\/a>");
+  }
+</script>
+<div class="social-links">
+  <ul>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ul>
+</div>
+
+</div>
+ -->
+    <!--   </div> -->
+    <!-- </div> -->
+    <!-- <div class="col s12 m9"> -->
+      <div class="post-listing">
+        
+<section class="post-listing-layout">
+  <header class="post-header">
+    <!-- <p class="post-meta"> -->
+    <!--   <span class="post-date"> -->
+    <!--     19 APR 2021 -->
+    <!--   </span> -->
+    <!--    -->
+    <!--   • -->
+    <!--    -->
+    <!--     <a class="post-cat" href="http://localhost:4000/categories/#traveling">traveling</a> -->
+    <!--      -->
+    <!--    -->
+    <!--    -->
+    <!-- </p> -->
+    <h4>
+      <a href="http://localhost:4000/articles/2021-04/Materials_and_Steps_For_Applying_Singapore_Visa" class="post-title-link" title="Materials and steps for applying US visa in Singapore">Materials and steps for applying US visa in Singapore</a>
+      
+    </h4>
+    
+ 
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <!-- <p>自和导师讨论去新加坡办理美签后，于是2月底和3月初一直在准备赴新加坡事宜。今已于3月24日入境新加坡，特此记录办理新加坡签证所需材料及所需办理时间，以备后来者参考。同时也列出办理美签所需材料（仅作参考），不同学科按情况准备。</p>
+
+<h3 id="新加坡签证所需材料">新加坡签证所需材料</h3>
+
+<p>目前新加坡驻华使馆不接受个人申请旅游签证，必须通过旅行社代办，而且每个领区所代办的旅行社不同，如果有代办需求，请查找领区内有资格代办的旅行社。代办签证费300元人民币，其中包括30新元的签证费，其余部分为旅行社代办费，请注意300元定价是新加坡驻华使馆制定的，全国统一价，如果旅行社代办签证费超过300元，请更换其他的旅行社。在找好代办旅行社后，旅行社会让你提供电子材料给他们审核，电子材料审核通过后才会通知你寄送纸质材料。下面是办理新加坡签证所需材料（不同的旅行社可能有些许区别）：</p>
+<ol>
+  <li>身份证复印件</li>
+  <li>护照复印件（有的旅行社要求原件，请按照旅行社要求提供）</li>
+  <li>户口本复印件</li>
+  <li>存款证明</li>
+  <li><a href="https://safetravel.ica.gov.sg/atp/apply-now">Air Traveal Pass(ATP)</a></li>
+  <li>证件照 （2张2寸）</li>
+</ol>
+
+<p>ATP的有效期为7天，过期可以再申请。如果申请签证时的ATP在入境时已过期，请在入境前重新申请，确保持有有效的ATP入境。在成功申请ATP后，ica会在ATP邮件中附带<a href="/assets/Materials_And_Steps_For_Applying_Singapore_Visa/ATP_Checklist.pdf">CheckList</a>，包涵旅行前，入关，抵达新加坡后所有代办事项。请详细阅读此CheckList，确保所有旅行前代办事项都已办理完成。(该CheckList是3月份的，请大家以收到的Checklist为准)</p>
+
+<h5 id="1-旅行保险">1. 旅行保险</h5>
+
+<p>在入境新加坡前必须购买旅行保险，其覆盖COVID-19相关的医疗和住院费用，最低保单为30,000新币，一般购买一个月的保险，费用大概200RMB（40新币），根据不同的保险公司有些许差别。<a href="https://safetravel.ica.gov.sg/health/travelinsurance">此链接为ica推荐的保险列表</a>，<strong>在购买保险后请打印保单以备新加坡海关检查</strong>。</p>
+
+<h5 id="2-covid-19核酸检测预约">2. COVID-19核酸检测预约</h5>
+
+<p>在抵达新加坡后，需在机场进行核酸检测，且需在起飞之前在<a href="https://safetravel.changiairport.com/#/">樟宜机场网站</a>预约并支付核酸检测费用160新币。检测结果一般在5-6小时内出来，并通过邮箱发送给旅客。如果为阴性，则可解除隔离。在预约核酸检测后，机场会给你发送一封</p>
+
+<h5 id="3-预订隔离酒店">3. 预订隔离酒店</h5>
+
+<p>在核酸检测完，需乘坐出租车前往隔离酒店，但是并没有人监督，可能是相信旅客能自觉遵守吧。隔离酒店须在起飞前就预订好，关于预订酒店是否为隔离酒店请查看此<a href="https://www.sha.org.sg">网站</a>，或者可以拨打酒店电话或者发邮件给酒店直接咨询（前台一般都会讲中文）。建议隔离酒店不用订太久，2-3天就够了。解除隔离后就可以实地去各个酒店看一下，再决定长期居住的酒店。</p>
+
+<h5 id="4-tracetogether-下载及新加坡手机卡预订">4. TraceTogether 下载及新加坡手机卡预订</h5>
+
+<p>TraceTogether 类似国内健康码扫码软件，需绑定手机。目前貌似国内的手机卡在国内没法激活，但是不知道是不是由于网络的原因。在国内登机前工作人员（厦门高崎机场）会检查是否下载TraceTogether和在樟宜机场预约手机卡。工作人员会让你扫描二维码并跳转到相应网站进行预约，在提交预约时可能会卡顿，请登录邮箱查看是否收到预约邮件，然后将预约邮件给工作人员检查。</p>
+
+<h5 id="5-sg-arrival-card">5. SG Arrival Card</h5>
+
+<p>在入境前3天，通过<a href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a>提交你的旅行和健康历史.</p>
+
+<h5 id="6-国内出境海关健康申报">6. 国内出境海关健康申报</h5>
+
+<p>在出境前要提前进行海关健康申报，可以提前<strong>24小时</strong>通过“中国海关”微信小程序或者点击<a href="https://s.xiamenair.com/9fe377e">链接</a>进行申报，此链接仅为厦门高崎机场出境，详情链接请查看航空公司所发短信。</p>
+
+<h3 id="申请美国签证所需材料及步骤">申请美国签证所需材料及步骤</h3>
+
+<p>美国驻新加坡大使馆可以为非新加坡居民提供签证服务，在确定要赴新加坡办理美签后，请在尽量在国内准备好美签所需材料。接下来将介绍申请美签步骤。</p>
+
+<h5 id="1-转移cgi账户">1. 转移cgi账户</h5>
+
+<p>新加坡和中国大陆预约美签面签都是使用cgi系统，所以如果之前在国内注册过cgi账户请将账户转移到新加坡。具体可以通过邮件或者电话联系大使馆（驻华大使馆或者驻新加坡大使馆）。其中电话联系效率较高，具体为拨打010-56794700（北京驻华大使馆）然后语音提示按1-2-2-2-5接通人工客服。可以和工作人员说转移cgi账户到新加坡，工作人员会要求提供护照信息和个人信息以确认，之后会要求你拼写新加坡的英文单词（Singapore）。注意：如果之前在国内缴过签证费，将cgi账户转移到新加坡后，国内账户的签证费会失效。也就是如果你再将cgi帐号转回国内，你必须再缴纳签证费后才能预约，之前的签证费已经无效。</p>
+
+<h5 id="2-缴纳签证费及预约签证面试">2. 缴纳签证费及预约签证面试</h5>
+
+<p>缴纳美签签证费可选选项已在<a href="https://www.ustraveldocs.com/sg_mn/sg-niv-paymentinfo.asp">大使馆官网</a>列出。国内的信用卡都不可用于缴费，如果不着急预约，可以来新加坡之前后去邮局缴费再预约。如果想尽早预约，可以联系新加坡的朋友代付后预约。如果没有新加坡朋友可以通过咸鱼代付，注：签证费大概在1100 RMB 左右，请酌情考虑中介代缴费用。</p>
+
+<h5 id="3-签证所需材料">3. 签证所需材料</h5>
+
+<ol>
+  <li>I-20 表格</li>
+  <li>线下课程证明，或者线上线下混和课程证明</li>
+  <li>照片 （2张）</li>
+  <li>护照</li>
+  <li>成绩单（本科，研究生都准备）</li>
+  <li>SEVIS 缴费确认信</li>
+  <li>签证预约确认信</li>
+  <li>DS-160 确认信</li>
+  <li>录取通知书</li>
+  <li>学位证书</li>
+  <li>TOFEL 成绩单（可选）</li>
+  <li>研究计划</li>
+  <li>导师CV （包括之前的导师和去美国的导师）</li>
+</ol>
+
+<p>上述材料只是本人所准备，化学专业，仅供参考，具体材料按照学科准备。</p>
+
+<p>希望大家都能顺利到新加坡，早日过美签。</p>
+
+ -->
+	自和导师讨论去新加坡办理美签后，于是2月底和3月初一直在准备赴新加坡事宜。今已于3月24日入境新加坡，特此记录办理新加坡签证所需材料及所需办理时间，以备后来者参考。同时也列出办理美签所需材料（ ...
+      </p>
     </div>
+    
 
-  </div>
+    <p class="post-meta">
+      <span class="post-date">
+        19 APR 2021
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#traveling">traveling</a>
+        
+      
+      
+    </p>
 
+    <!--  -->
+
+</section>
+
+<section class="post-listing-layout">
+  <header class="post-header">
+    <!-- <p class="post-meta"> -->
+    <!--   <span class="post-date"> -->
+    <!--     11 APR 2021 -->
+    <!--   </span> -->
+    <!--    -->
+    <!--   • -->
+    <!--    -->
+    <!--     <a class="post-cat" href="http://localhost:4000/categories/#life">life</a> -->
+    <!--      -->
+    <!--     <span>/</span> -->
+    <!--      -->
+    <!--    -->
+    <!--     <a class="post-cat" href="http://localhost:4000/categories/#traveling">traveling</a> -->
+    <!--      -->
+    <!--    -->
+    <!--    -->
+    <!-- </p> -->
+    <h4>
+      <a href="http://localhost:4000/articles/2021-04/travealing-in-Singapore" class="post-title-link" title="Traveling in Singapore">Traveling in Singapore</a>
+      
+    </h4>
+    
+ 
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <!-- <p>毫无出国经历的我，丝毫没料到新加坡会是我踏上异国的第一站。</p>
+
+<p>在家上了半年网课之后，导师也坐不住了，催促着我们能不能绕道第三国去办理签证并入境美国。由于之前第三国签证首选地–柬埔寨收紧外国旅客入境政策，加上新加坡于20年11月份开放中国旅客的旅游签证，且新加坡的旅游居住体验远好于柬埔寨，在和导师商量之后，我们决定将目光投到这个位于马六甲海峡旁的城邦国家-新加坡。</p>
+
+<p>3月起就开始准备赴新加坡申请美签，首先是新加坡旅游签证。由于新加坡大使馆不接受个人申请旅游签证，必须得通过国内的旅行社代办才行，于是在携程上找了一个旅行社，代办</p>
+
+ -->
+	毫无出国经历的我，丝毫没料到新加坡会是我踏上异国的第一站。
+
+在家上了半年网课之后，导师也坐不住了，催促着我们能不能绕道第三国去办理签证并入境美国。由于之前第三国签证首选地–柬埔寨收紧外国旅客 ...
+      </p>
+    </div>
+    
+
+    <p class="post-meta">
+      <span class="post-date">
+        11 APR 2021
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#life">life</a>
+        
+        <span>/</span>
+        
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#traveling">traveling</a>
+        
+      
+      
+    </p>
+
+    <!--  -->
+
+</section>
+
+<section class="post-listing-layout">
+  <header class="post-header">
+    <!-- <p class="post-meta"> -->
+    <!--   <span class="post-date"> -->
+    <!--     27 JUL 2020 -->
+    <!--   </span> -->
+    <!--    -->
+    <!--   • -->
+    <!--    -->
+    <!--     <a class="post-cat" href="http://localhost:4000/categories/#life">life</a> -->
+    <!--      -->
+    <!--    -->
+    <!--    -->
+    <!-- </p> -->
+    <h4>
+      <a href="http://localhost:4000/articles/2020-07/my-first-post" class="post-title-link" title="Welcome to Chao&#39;s Blog">Welcome to Chao's Blog</a>
+      
+    </h4>
+    
+ 
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <!-- <p>心心念念的博客终于建好了。虽然之前一直想搭建个人网站，但无奈所需折腾的时间太多，于是折中选择博客。毕竟内容才是最重要的。</p>
+
+<p>这个欢迎页本来应该在6月下旬就应该写，但是由于自己的拖延症，硬是拖了一个月后才开始动笔。本来还想拖一段时间的，但是想想如果欢迎页还没写完的话，后面的生活记录很大可能就永远不会动笔，于是逼自己一把，硬着头皮开始写这个欢迎页。</p>
+
+<p>建立博客的初衷是想有一个可以分享和记录生活的工具。由于朋友圈太过于正能量化和与日俱增的广告，遂在2年前就已经关闭了。朋友圈每天都是一些晒图片的，让我感觉朋友们每天都过得很好。但是生活并不像朋友圈所展示的那样多彩，只是每个人并不想让别人知道自己如何在平凡的日子挣扎。所以朋友圈也就慢慢地变成光鲜亮丽的集合，就如城市的中心商圈一样眩丽，但是我比较喜欢藏于市井之中最具有生活气息的集市，即使有时候脏乱差一点，但是这种真实却让我无比珍视。故建立自己的博客，希望能在这偏僻的角落记录一下自己真实的生活。</p>
+
+<p>当然，我同时也想逃离那种因便利的社交网络所带来交流的虚假感。现代社交真的是太过于方便了，使得我们并不会珍惜和怀念人与人之间的交流。前段时间在翻阅邮箱的时候，发现去年毕业季发给同学的毕业典礼邀请邮件，这些邮件让我想起，如果当时用微信联系她们的话，很大可能这些消息已经被淹没了。所以珍贵、难以获得的东西才让人珍视，看来对便捷的交流方式适当的加以一点阻力了。朋友圈随手的点赞或者“Like”也让人麻木，我们不经意的点击让这些本来寄付情感的词语淡然无味。同时回复朋友的评论有时也让我精疲力竭，只可惜朋友圈没有禁止评论的这一功能。</p>
+
+<p>最后，欢迎各位来逛的朋友！</p>
+
+ -->
+	心心念念的博客终于建好了。虽然之前一直想搭建个人网站，但无奈所需折腾的时间太多，于是折中选择博客。毕竟内容才是最重要的。
+
+这个欢迎页本来应该在6月下旬就应该写，但是由于自己的拖延症，硬是拖了 ...
+      </p>
+    </div>
+    
+
+    <p class="post-meta">
+      <span class="post-date">
+        27 JUL 2020
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#life">life</a>
+        
+      
+      
+    </p>
+
+    <!--  -->
+
+</section>
+
+<section class="post-listing-layout">
+  <header class="post-header">
+    <!-- <p class="post-meta"> -->
+    <!--   <span class="post-date"> -->
+    <!--     18 AUG 2015 -->
+    <!--   </span> -->
+    <!--    -->
+    <!--   • -->
+    <!--    -->
+    <!--     <a class="post-cat" href="http://localhost:4000/categories/#tutorial">tutorial</a> -->
+    <!--      -->
+    <!--    -->
+    <!--    -->
+    <!-- </p> -->
+    <h4>
+      <a href="http://localhost:4000/articles/2015-08/welcome-to-jekyll" class="post-title-link" title="Welcome to Jekyll!">Welcome to Jekyll!</a>
+      
+    </h4>
+    
+ 
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <!-- <p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+ -->
+	You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to se ...
+      </p>
+    </div>
+    
+
+    <p class="post-meta">
+      <span class="post-date">
+        18 AUG 2015
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#tutorial">tutorial</a>
+        
+      
+      
+    </p>
+
+    <!--  -->
+
+</section>
+
+<section class="post-listing-layout">
+  <header class="post-header">
+    <!-- <p class="post-meta"> -->
+    <!--   <span class="post-date"> -->
+    <!--     16 AUG 2013 -->
+    <!--   </span> -->
+    <!--    -->
+    <!--   • -->
+    <!--    -->
+    <!--     <a class="post-cat" href="http://localhost:4000/categories/#code">code</a> -->
+    <!--      -->
+    <!--    -->
+    <!--    -->
+    <!-- </p> -->
+    <h4>
+      <a href="http://localhost:4000/articles/2013-08/code-highlighting-post" class="post-title-link" title="Syntax Highlighting Post">Syntax Highlighting Post</a>
+      
+    </h4>
+    
+ 
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <!-- Demo post displaying the various ways of highlighting code in Markdown. -->
+	Syntax highlighting is a feature that displays source code, in different colors and fonts accord ...
+      </p>
+    </div>
+    
+
+    <p class="post-meta">
+      <span class="post-date">
+        16 AUG 2013
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#code">code</a>
+        
+      
+      
+    </p>
+
+    <!--  -->
+
+</section>
+
+<section class="post-listing-layout">
+  <header class="post-header">
+    <!-- <p class="post-meta"> -->
+    <!--   <span class="post-date"> -->
+    <!--     12 AUG 2013 -->
+    <!--   </span> -->
+    <!--    -->
+    <!--   • -->
+    <!--    -->
+    <!--     <a class="post-cat" href="http://localhost:4000/categories/#link post">link post</a> -->
+    <!--      -->
+    <!--    -->
+    <!--    -->
+    <!-- </p> -->
+    <h4>
+      <a href="http://localhost:4000/articles/2013-08/sample-link-post" class="post-title-link" title="Sample Link Post">Sample Link Post</a>
+      
+      <a class="post-title-link" href="http://renyuanz.github.io" target="_blank" title="Sample Link Post"><i class="fa fa-external-link"></i></a>
+      
+    </h4>
+    
+ 
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <!-- Try click on the link icon. -->
+	This theme supports link posts, made famous by John Gruber. To use, just add link: http://url-yo ...
+      </p>
+    </div>
+    
+
+    <p class="post-meta">
+      <span class="post-date">
+        12 AUG 2013
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#link post">link post</a>
+        
+      
+      
+    </p>
+
+    <!--  -->
+
+</section>
+
+<section class="post-listing-layout">
+  <header class="post-header">
+    <!-- <p class="post-meta"> -->
+    <!--   <span class="post-date"> -->
+    <!--     23 MAY 2013 -->
+    <!--   </span> -->
+    <!--    -->
+    <!--   • -->
+    <!--    -->
+    <!--     <a class="post-cat" href="http://localhost:4000/categories/#paragraph">paragraph</a> -->
+    <!--      -->
+    <!--     <span>/</span> -->
+    <!--      -->
+    <!--    -->
+    <!--     <a class="post-cat" href="http://localhost:4000/categories/#feature photo">feature photo</a> -->
+    <!--      -->
+    <!--    -->
+    <!--    -->
+    <!-- </p> -->
+    <h4>
+      <a href="http://localhost:4000/articles/2013-05/readability-feature-post" class="post-title-link" title="Post with Large Feature Image and Text">Post with Large Feature Image and Text</a>
+      
+    </h4>
+    
+ 
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <!-- Custom written post descriptions are the way to go... if you're not lazy. -->
+	This is a sample post with a large feature image1 up top and tons of text. Odio ad blue bottle v ...
+      </p>
+    </div>
+    
+
+    <p class="post-meta">
+      <span class="post-date">
+        23 MAY 2013
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#paragraph">paragraph</a>
+        
+        <span>/</span>
+        
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#feature photo">feature photo</a>
+        
+      
+      
+    </p>
+
+    <!--  -->
+    <!-- <div class="post-image-feature"> -->
+    <!--   <img src= -->
+    <!--    -->
+    <!--   "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250" -->
+    <!--    -->
+    <!--   alt="Post with Large Feature Image and Text feature image"> -->
+
+    <!--    -->
+    <!--   <span class="image-credit">Photo Credit: <a href="https://unsplash.com/photos/oMpAz-DN-9I">Greg Rakozy</a></span> -->
+    <!--    -->
+    <!-- </div><\!-- /.image-wrap -\-> -->
+    <!--  -->
+
+</section>
+
+<section class="post-listing-layout">
+  <header class="post-header">
+    <!-- <p class="post-meta"> -->
+    <!--   <span class="post-date"> -->
+    <!--     22 MAY 2012 -->
+    <!--   </span> -->
+    <!--    -->
+    <!--   • -->
+    <!--    -->
+    <!--     <a class="post-cat" href="http://localhost:4000/categories/#paragraph">paragraph</a> -->
+    <!--      -->
+    <!--    -->
+    <!--    -->
+    <!-- </p> -->
+    <h4>
+      <a href="http://localhost:4000/articles/2012-05/readability-post" class="post-title-link" title="Testing &quot;Readability&quot; with a Bunch of Text">Testing "Readability" with a Bunch of Text</a>
+      
+    </h4>
+    
+ 
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <!-- A ton of text to test readability. -->
+	Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest l ...
+      </p>
+    </div>
+    
+
+    <p class="post-meta">
+      <span class="post-date">
+        22 MAY 2012
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#paragraph">paragraph</a>
+        
+      
+      
+    </p>
+
+    <!--  -->
+
+</section>
+
+<section class="post-listing-layout">
+  <header class="post-header">
+    <!-- <p class="post-meta"> -->
+    <!--   <span class="post-date"> -->
+    <!--     10 MAR 2011 -->
+    <!--   </span> -->
+    <!--    -->
+    <!--   • -->
+    <!--    -->
+    <!--     <a class="post-cat" href="http://localhost:4000/categories/#hello world">hello world</a> -->
+    <!--      -->
+    <!--    -->
+    <!--    -->
+    <!-- </p> -->
+    <h4>
+      <a href="http://localhost:4000/articles/2011-03/sample-post" class="post-title-link" title="Sample Post">Sample Post</a>
+      
+    </h4>
+    
+ 
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <!-- Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more. -->
+	HTML Elements
+
+Below is just about everything you’ll need to style in the theme. Check the sourc ...
+      </p>
+    </div>
+    
+
+    <p class="post-meta">
+      <span class="post-date">
+        10 MAR 2011
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#hello world">hello world</a>
+        
+      
+      
+    </p>
+
+    <!--  -->
+    <!-- <div class="post-image-feature"> -->
+    <!--   <img src= -->
+    <!--    -->
+    <!--   "https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250" -->
+    <!--    -->
+    <!--   alt="Sample Post feature image"> -->
+
+    <!--    -->
+    <!--   <span class="image-credit">Photo Credit: <a href="https://unsplash.com/photos/Ki0dpxd3LGc">thomas shellberg</a></span> -->
+    <!--    -->
+    <!-- </div><\!-- /.image-wrap -\-> -->
+    <!--  -->
+
+</section>
+
+
+        <!-- <footer>
+  &copy; 2021 Leonids. Powered by <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://github.com/renyuanz/leonids/">leonids theme</a> made with <i class="fa fa-heart heart-icon"></i>
 </footer>
-</body>
+ -->
+      </div>
+  </div>
+  
+  <script type="text/javascript" src="http://localhost:4000/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="http://localhost:4000/js/main.js"></script>
 
+
+</body>
 </html>
