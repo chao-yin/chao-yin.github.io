@@ -14,7 +14,7 @@ categories: traveling
 2. 护照复印件（有的旅行社要求原件，请按照旅行社要求提供）
 3. 户口本复印件
 4. 存款证明
-5. [Air Traveal Pass(ATP)](https://safetravel.ica.gov.sg/atp/apply-now) 
+5. [Air Traveal Pass(ATP)](https://safetravel.ica.gov.sg/atp/apply-now) (建议在申请新加坡签证前2-3天申请)
 6. 证件照 （2张2寸）
 
 ATP的有效期为7天，过期可以再申请。如果申请签证时的ATP在入境时已过期，请在入境前重新申请，确保持有有效的ATP入境。在成功申请ATP后，ica会在ATP邮件中附带[CheckList](/assets/Materials_And_Steps_For_Applying_Singapore_Visa/ATP_Checklist.pdf)，包涵旅行前，入关，抵达新加坡后所有代办事项。请详细阅读此CheckList，确保所有旅行前代办事项都已办理完成。(该CheckList是3月份的，请大家以收到的Checklist为准)
