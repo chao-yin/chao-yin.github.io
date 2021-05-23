@@ -5,9 +5,39 @@
     <description>A simple and awesome blog theme powered by jekyll.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>2021-05-19</pubDate>
-    <lastBuildDate>Wed, 19 May 2021 13:30:22 +0200</lastBuildDate>
+    <pubDate>2021-05-23</pubDate>
+    <lastBuildDate>Sun, 23 May 2021 06:25:08 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>太平洋的风</title>
+        <description>&lt;p&gt;当飞机缓缓离开樟宜机场，越过新加坡海峡，奔赴5千公里之外的中东的时候，这趟在疫情中的旅行应该是正式结束了。&lt;/p&gt;
+
+&lt;p&gt;初次来到狮城的兴奋在这离别的时候化成一丝凉凉的伤感。看着窗外的灯光渐渐消失，对于这座城市的思绪又如断絮般交织在一起。在机场和出租司机寒喧的说着下次一定来吃辣椒螃蟹，可是我似乎也不太确定是否还会再来新加坡。就如和老同学说要经常保持联系的措辞一样，我对这无力的约定也并不感觉乐观。不如趁着记忆还未糢糊之前，将对于这城市的映象写在纸上。&lt;/p&gt;
+
+&lt;p&gt;潮湿的空气包裹着所有第一次来到这座城市的人，或许有人不太习惯于这种闷热的天气。但是我对这种气候已有一种熟悉感，就如同回到了同样是位于南方的厦门一样。从出租车的窗子向外看去，远处的住宅楼上那鲜艳的黄红色的明瓦再加上熟悉的屋顶结构让我有种没有离开的厦门的错觉。只是在经过金沙酒店时同行人的惊呼让我从这个错觉中醒来—原来这就是新加坡。&lt;/p&gt;
+
+&lt;p&gt;金沙酒店的高贵，滨海湾公园SuperTree充满现代的设计使得这种城市如此别致，但是在这充斥现代气息的城市中，安溪会馆，泉州商会等具有传统文化的建筑也存在其中，使得这座城市不会显得单调。当然，国家图书馆是我最爱的地方，在这里我度过了闲暇的“摸鱼”时光，也在这里体验到赶期末考试的紧迫。不过最映像深刻的却是福康宁公园前的那块翠绿色的草坪，从未见过国内哪个城市的市中心有那么一大块草坪给人们休闲，感叹于这座城市中人与环境的和谐。&lt;/p&gt;
+
+&lt;p&gt;同样的语言，相似的饮食，却是不同的文化。基督教的尖顶教堂，清真寺的圆穹屋顶，满是神牛的印度教寺庙，当然还有香火旺盛的佛庙。种种不同的宗教在这里共处，使得每个有信仰的人都可以找到祈拜的去处。便捷的公共交通上却是处处为弱势群体的考虑，停车时车门台阶会倾斜的设计让老年人更容易上车，车厢中部的轮椅固定卡槽让轮椅使用者也有乘坐公共交通的机会。同时街口的绿灯会为残疾人延长通过时间，这些点点滴滴的设计无不体现了政策制定者的用心和对弱势群体的关怀。&lt;/p&gt;
+
+&lt;p&gt;不过令我最暖心的却是这里的普普通通的人！从乌敏岛回来的那个晚上，我们坐在大排档里面吃晚餐，去邻座取餐具时邻座客人善意的微笑让我那天的疲惫顿时消散。同样，牛车水公交站旁那位给所有排队上车的乘客撑伞的老大爷让阴雨天也格外美好！这种画面同时也我感到羞愧，因为如果我面对同样的场景，我可能会选择尽快的钻进车厢躲雨。只是希望下次再遇此景，我会默默的走到车前，撑开我的伞。&lt;/p&gt;
+
+&lt;p&gt;此时身处飞机上的我想起来左小诅咒的那首«太平洋的风»，或许用它来形容新加坡也很合适。&lt;/p&gt;
+
+&lt;p&gt;没有完美的制度，没有完美的文化。&lt;/p&gt;
+
+&lt;p&gt;它也许不是最好的，但没有什么比它更好了…&lt;/p&gt;
+
+</description>
+        <pubDate>2021-05-23</pubDate>
+        <link>http://localhost:4000/articles/2021-05/The-Impresion_of_Singapore</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2021-05/The-Impresion_of_Singapore</guid>
+        
+        
+        <category>traveling</category>
+        
+      </item>
     
       <item>
         <title>Travel in Singapore (1)</title>
@@ -84,7 +114,7 @@
 &lt;p&gt;&lt;img src=&quot;/assets/Travel_In_Singpore/IMG_2272.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 飞行动物园里的火烈鸟 &lt;/center&gt;
 </description>
-        <pubDate>2021-05-19</pubDate>
+        <pubDate>2021-05-23</pubDate>
         <link>http://localhost:4000/articles/2021-05/Travel-In-Singapore-1</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Travel-In-Singapore-1</guid>
         
@@ -115,7 +145,7 @@
 
 &lt;p&gt;最后，祝愿在5月末结婚的阿奇同学新婚快乐！&lt;/p&gt;
 </description>
-        <pubDate>2021-05-19</pubDate>
+        <pubDate>2021-05-23</pubDate>
         <link>http://localhost:4000/articles/2021-05/Some-Thoughts-About-Weddding</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Some-Thoughts-About-Weddding</guid>
         
@@ -201,7 +231,7 @@
 &lt;p&gt;希望大家都能顺利到新加坡，早日过美签。&lt;/p&gt;
 
 </description>
-        <pubDate>2021-05-19</pubDate>
+        <pubDate>2021-05-23</pubDate>
         <link>http://localhost:4000/articles/2021-04/Materials_and_Steps_For_Applying_Singapore_Visa</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-04/Materials_and_Steps_For_Applying_Singapore_Visa</guid>
         
@@ -223,7 +253,7 @@
 &lt;p&gt;最后，欢迎各位来逛的朋友！&lt;/p&gt;
 
 </description>
-        <pubDate>2021-05-19</pubDate>
+        <pubDate>2021-05-23</pubDate>
         <link>http://localhost:4000/articles/2020-07/my-first-post</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2020-07/my-first-post</guid>
         
