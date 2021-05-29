@@ -8,7 +8,7 @@ categories: life
 来达拉斯已经一周，昨日傍晚出门去超市购物的时候，遇见远处的夕阳，想起了在厦门的晚霞。只是叹息开通博客太晚了，那样或许可以早一点将厦门的美记录下。转而翻了一下相册，又回想起了在厦门的时光，遂在这里晒出之前的照片，以供怀念。
 
 
-![](/assets/Xiamen/IMG_1623.jpg)
+![](/assets/Xiamen/IMG_1623.JPG)
 <center style="font-size:14px;font-style:italic"> 灯光绚烂的厦大医院 </center>
 
 ![](/assets/Xiamen/IMG_1984.jpg)
