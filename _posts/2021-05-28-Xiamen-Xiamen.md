@@ -11,7 +11,7 @@ categories: life
 ![](/assets/Xiamen/IMG_1623.JPG)
 <center style="font-size:14px;font-style:italic"> 灯光绚烂的厦大医院 </center>
 
-![](/assets/Xiamen/IMG_1984.jpg)
+![](/assets/Xiamen/IMG_1984.JPG)
 <center style="font-size:14px;font-style:italic"> 黄昏下的颂恩楼 </center>
 
 ![](/assets/Xiamen/IMG_2296.JPG)
