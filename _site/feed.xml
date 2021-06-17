@@ -5,9 +5,50 @@
     <description>A simple and awesome blog theme powered by jekyll.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>2021-05-31</pubDate>
-    <lastBuildDate>Mon, 31 May 2021 20:54:36 +0200</lastBuildDate>
+    <pubDate>2021-06-17</pubDate>
+    <lastBuildDate>Thu, 17 Jun 2021 23:07:45 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>理发</title>
+        <description>&lt;p&gt;在离开新加坡前没有理发，导致到了学校一个月后头发又长长了。在咨询了实验室成员后，说这边理发挺贵的，遂决定自己买个理发工具自己理发，反正也是推寸头，也无所谓是不是理发师理了。&lt;/p&gt;
+
+&lt;p&gt;在亚马逊上选好理发工具后，就下单等着亚马逊送货上门。Prime会员送货还是挺快的，一天就送到了。中午午睡醒后，看到门口有个快递，拿回来打开一看是理发套装。于是拆开就地理了个发。&lt;/p&gt;
+
+&lt;p&gt;虽然是第一次理发，但是感觉效果还不错，和我当时在新加坡理的200块的寸头的效果差不多，在修剪的过程中还心惊胆颤，但是想想最近也不怎么出门，理成啥效果都没多大关系，于是平复了一下心情继续理。最后的实际效果还不错，就是碎发太难清理，下次理发的时候一定买一个罩子，不然衣服上全是头发。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/HairCutting/IMG_3668.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 理发前 &lt;/center&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/HairCutting/IMG_3672.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 理发中（搞笑发型） &lt;/center&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/HairCutting/IMG_3674.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 最后效果（给大家拜个年） &lt;/center&gt;
+</description>
+        <pubDate>2021-06-17</pubDate>
+        <link>http://localhost:4000/articles/2021-06/Hair-cutting</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2021-06/Hair-cutting</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+      <item>
+        <title>庐山</title>
+        <description>&lt;p&gt;来达拉斯已经快一个月了，每周出门买菜的时候，坐着课题组的“专车”望着一望无际的平原，心里越发相念去年在家的时候，每天早上起来一眼就可以看到耸立在眼前的庐山。在这个美国南部的大平原上还没看见一点山丘的影子，看来以后那种可以随意爬山的日子已经没有了。去年在家的时候一年爬了4次庐山，每次都有不一样的景色，所以在这里纪念一下每次爬庐山的经历。&lt;/p&gt;
+
+&lt;p&gt;第一次听说庐山应该是小学的时候，虽然在家门口都能看见门前有座山，但是年幼无知，只是后来听姐姐说那个是庐山才明白语文课本中望庐山瀑布的庐山离自己这么近。虽然这么近的，但是也没有&lt;/p&gt;
+</description>
+        <pubDate>2021-06-17</pubDate>
+        <link>http://localhost:4000/articles/2021-06/Monutain-Lu</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2021-06/Monutain-Lu</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
     
       <item>
         <title>Travel in Singapore (4)</title>
@@ -82,7 +123,7 @@
 
 &lt;p&gt;再见新加坡，再见我的朋友们。&lt;/p&gt;
 </description>
-        <pubDate>2021-05-31</pubDate>
+        <pubDate>2021-06-17</pubDate>
         <link>http://localhost:4000/articles/2021-05/Travel-In-Singapore-4</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Travel-In-Singapore-4</guid>
         
@@ -215,7 +256,7 @@
 &lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 不知怎么形容的厦门的美 &lt;/center&gt;
 
 </description>
-        <pubDate>2021-05-31</pubDate>
+        <pubDate>2021-06-17</pubDate>
         <link>http://localhost:4000/articles/2021-05/Xiamen-Xiamen</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Xiamen-Xiamen</guid>
         
@@ -283,7 +324,7 @@
 &lt;p&gt;&lt;img src=&quot;/assets/Travel_In_Singapore_3/IMG_2647.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; Vivo City上自挂东南枝的纸片人 &lt;/center&gt;
 </description>
-        <pubDate>2021-05-31</pubDate>
+        <pubDate>2021-06-17</pubDate>
         <link>http://localhost:4000/articles/2021-05/Travel_In_Singapore-3</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Travel_In_Singapore-3</guid>
         
@@ -362,7 +403,7 @@
 &lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 眺望海峡的行人 &lt;/center&gt;
 
 </description>
-        <pubDate>2021-05-31</pubDate>
+        <pubDate>2021-06-17</pubDate>
         <link>http://localhost:4000/articles/2021-05/Travel-In-Singapore-2</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Travel-In-Singapore-2</guid>
         
@@ -394,7 +435,7 @@
 &lt;p&gt;它也许不是最好的，但没有什么比它更好了…&lt;/p&gt;
 
 </description>
-        <pubDate>2021-05-31</pubDate>
+        <pubDate>2021-06-17</pubDate>
         <link>http://localhost:4000/articles/2021-05/The-Impresion_of_Singapore</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/The-Impresion_of_Singapore</guid>
         
@@ -478,7 +519,7 @@
 &lt;p&gt;&lt;img src=&quot;/assets/Travel_In_Singpore/IMG_2272.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 飞行动物园里的火烈鸟 &lt;/center&gt;
 </description>
-        <pubDate>2021-05-31</pubDate>
+        <pubDate>2021-06-17</pubDate>
         <link>http://localhost:4000/articles/2021-05/Travel-In-Singapore-1</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Travel-In-Singapore-1</guid>
         
@@ -509,7 +550,7 @@
 
 &lt;p&gt;最后，祝愿在5月末结婚的阿奇同学新婚快乐！&lt;/p&gt;
 </description>
-        <pubDate>2021-05-31</pubDate>
+        <pubDate>2021-06-17</pubDate>
         <link>http://localhost:4000/articles/2021-05/Some-Thoughts-About-Weddding</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Some-Thoughts-About-Weddding</guid>
         
@@ -595,34 +636,12 @@
 &lt;p&gt;希望大家都能顺利到新加坡，早日过美签。&lt;/p&gt;
 
 </description>
-        <pubDate>2021-05-31</pubDate>
+        <pubDate>2021-06-17</pubDate>
         <link>http://localhost:4000/articles/2021-04/Materials_and_Steps_For_Applying_Singapore_Visa</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-04/Materials_and_Steps_For_Applying_Singapore_Visa</guid>
         
         
         <category>traveling</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Chao's Blog</title>
-        <description>&lt;p&gt;心心念念的博客终于建好了。虽然之前一直想搭建个人网站，但无奈所需折腾的时间太多，于是折中选择博客。毕竟内容才是最重要的。&lt;/p&gt;
-
-&lt;p&gt;这个欢迎页本来应该在6月下旬就应该写，但是由于自己的拖延症，硬是拖了一个月后才开始动笔。本来还想拖一段时间的，但是想想如果欢迎页还没写完的话，后面的生活记录很大可能就永远不会动笔，于是逼自己一把，硬着头皮开始写这个欢迎页。&lt;/p&gt;
-
-&lt;p&gt;建立博客的初衷是想有一个可以分享和记录生活的工具。由于朋友圈太过于正能量化和与日俱增的广告，遂在2年前就已经关闭了。朋友圈每天都是一些晒图片的，让我感觉朋友们每天都过得很好。但是生活并不像朋友圈所展示的那样多彩，只是每个人并不想让别人知道自己如何在平凡的日子挣扎。所以朋友圈也就慢慢地变成光鲜亮丽的集合，就如城市的中心商圈一样眩丽，但是我比较喜欢藏于市井之中最具有生活气息的集市，即使有时候脏乱差一点，但是这种真实却让我无比珍视。故建立自己的博客，希望能在这偏僻的角落记录一下自己真实的生活。&lt;/p&gt;
-
-&lt;p&gt;当然，我同时也想逃离那种因便利的社交网络所带来交流的虚假感。现代社交真的是太过于方便了，使得我们并不会珍惜和怀念人与人之间的交流。前段时间在翻阅邮箱的时候，发现去年毕业季发给同学的毕业典礼邀请邮件，这些邮件让我想起，如果当时用微信联系她们的话，很大可能这些消息已经被淹没了。所以珍贵、难以获得的东西才让人珍视，看来对便捷的交流方式适当的加以一点阻力了。朋友圈随手的点赞或者“Like”也让人麻木，我们不经意的点击让这些本来寄付情感的词语淡然无味。同时回复朋友的评论有时也让我精疲力竭，只可惜朋友圈没有禁止评论的这一功能。&lt;/p&gt;
-
-&lt;p&gt;最后，欢迎各位来逛的朋友！&lt;/p&gt;
-
-</description>
-        <pubDate>2021-05-31</pubDate>
-        <link>http://localhost:4000/articles/2020-07/my-first-post</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2020-07/my-first-post</guid>
-        
-        
-        <category>life</category>
         
       </item>
     
