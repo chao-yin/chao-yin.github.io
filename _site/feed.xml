@@ -5,9 +5,46 @@
     <description>A simple and awesome blog theme powered by jekyll.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>2021-06-17</pubDate>
-    <lastBuildDate>Thu, 17 Jun 2021 23:07:45 +0200</lastBuildDate>
+    <pubDate>2022-06-21</pubDate>
+    <lastBuildDate>Tue, 21 Jun 2022 06:40:08 +0200</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>First Cocktail</title>
+        <description>&lt;p&gt;自从五月份从波多黎各回来，就一直想着在当地品尝的 mojito 和 Pina colada。特别是那天下午和陈科在海边闲逛时在街边买的 mojito 让我第一次尝试到鸡尾酒微醺的感觉。于是想着回来之后一定要买调酒装备自己晚上调酒喝，重温一下微醺的感觉。&lt;/p&gt;
+
+&lt;p&gt;记得第一次喝酒胃就应该是在厦门，离学校不远的 mojito 酒吧是同学聊天的好去处，只可惜听说前段时间因为疫情，mojito酒吧停业倒闭了，甚是遗憾。应该是5年前，初中同学刚从英国回来，来厦门找我玩。在英国受净酒吧文化熏陶的他问我学校周围有什么喝酒的地方吗？于是我就带着他去了 mojito, 当然也只是因为离学校近。他点了一杯加冰威士忌，我就点了一瓶啤酒，两人在酒吧里闲聊了大半夜。5年后，初中同学已经结婚生子，而我也已经离家一年多了，感叹光阴似箭呐。&lt;/p&gt;
+
+&lt;p&gt;今天在实验室忙完论文的最后一张图表后，开车到离家不远的Total Wine买酒，调酒设配2周前就在Amazon上买好了，但是最近一直忙着写论文，所以没有时间来调酒。今天好不容易等到忙完了，于是下班后就跑去Total Wine 买酒。吃完晚餐后，把上周去超市买的柠檬和薄荷拿出来，准备开始做鸡尾酒最简单的 mojito。1.5盎司的白朗姆酒，加上薄荷，柠檬，气泡水，冰，搅拌几下就可以了，长了一下味道还不错，喝了大半杯后体会到波多黎各海滩上微醺的感觉了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/CockTail/Mojito/IMG_5611.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; Mojito &lt;/center&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/CockTail/Mojito/IMG_5614.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 微醺的感觉 &lt;/center&gt;
+</description>
+        <pubDate>2022-06-21</pubDate>
+        <link>http://localhost:4000/articles/2022-06/First-Cocktail</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2022-06/First-Cocktail</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+      <item>
+        <title>艰难的开始</title>
+        <description>&lt;p&gt;7月即末，来达拉斯已经2个月了。&lt;/p&gt;
+
+</description>
+        <pubDate>2022-06-21</pubDate>
+        <link>http://localhost:4000/articles/2021-08/the-beginning-life-in-Dallas</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2021-08/the-beginning-life-in-Dallas</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
     
       <item>
         <title>理发</title>
@@ -26,7 +63,7 @@
 &lt;p&gt;&lt;img src=&quot;/assets/HairCutting/IMG_3674.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 最后效果（给大家拜个年） &lt;/center&gt;
 </description>
-        <pubDate>2021-06-17</pubDate>
+        <pubDate>2022-06-21</pubDate>
         <link>http://localhost:4000/articles/2021-06/Hair-cutting</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-06/Hair-cutting</guid>
         
@@ -41,7 +78,7 @@
 
 &lt;p&gt;第一次听说庐山应该是小学的时候，虽然在家门口都能看见门前有座山，但是年幼无知，只是后来听姐姐说那个是庐山才明白语文课本中望庐山瀑布的庐山离自己这么近。虽然这么近的，但是也没有&lt;/p&gt;
 </description>
-        <pubDate>2021-06-17</pubDate>
+        <pubDate>2022-06-21</pubDate>
         <link>http://localhost:4000/articles/2021-06/Monutain-Lu</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-06/Monutain-Lu</guid>
         
@@ -123,7 +160,7 @@
 
 &lt;p&gt;再见新加坡，再见我的朋友们。&lt;/p&gt;
 </description>
-        <pubDate>2021-06-17</pubDate>
+        <pubDate>2022-06-21</pubDate>
         <link>http://localhost:4000/articles/2021-05/Travel-In-Singapore-4</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Travel-In-Singapore-4</guid>
         
@@ -256,7 +293,7 @@
 &lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 不知怎么形容的厦门的美 &lt;/center&gt;
 
 </description>
-        <pubDate>2021-06-17</pubDate>
+        <pubDate>2022-06-21</pubDate>
         <link>http://localhost:4000/articles/2021-05/Xiamen-Xiamen</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Xiamen-Xiamen</guid>
         
@@ -324,7 +361,7 @@
 &lt;p&gt;&lt;img src=&quot;/assets/Travel_In_Singapore_3/IMG_2647.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; Vivo City上自挂东南枝的纸片人 &lt;/center&gt;
 </description>
-        <pubDate>2021-06-17</pubDate>
+        <pubDate>2022-06-21</pubDate>
         <link>http://localhost:4000/articles/2021-05/Travel_In_Singapore-3</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Travel_In_Singapore-3</guid>
         
@@ -403,7 +440,7 @@
 &lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 眺望海峡的行人 &lt;/center&gt;
 
 </description>
-        <pubDate>2021-06-17</pubDate>
+        <pubDate>2022-06-21</pubDate>
         <link>http://localhost:4000/articles/2021-05/Travel-In-Singapore-2</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Travel-In-Singapore-2</guid>
         
@@ -435,7 +472,7 @@
 &lt;p&gt;它也许不是最好的，但没有什么比它更好了…&lt;/p&gt;
 
 </description>
-        <pubDate>2021-06-17</pubDate>
+        <pubDate>2022-06-21</pubDate>
         <link>http://localhost:4000/articles/2021-05/The-Impresion_of_Singapore</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/The-Impresion_of_Singapore</guid>
         
@@ -519,7 +556,7 @@
 &lt;p&gt;&lt;img src=&quot;/assets/Travel_In_Singpore/IMG_2272.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;center style=&quot;font-size:14px;font-style:italic&quot;&gt; 飞行动物园里的火烈鸟 &lt;/center&gt;
 </description>
-        <pubDate>2021-06-17</pubDate>
+        <pubDate>2022-06-21</pubDate>
         <link>http://localhost:4000/articles/2021-05/Travel-In-Singapore-1</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Travel-In-Singapore-1</guid>
         
@@ -527,121 +564,6 @@
         <category>life</category>
         
         <category>Travel</category>
-        
-      </item>
-    
-      <item>
-        <title>婚礼随笔</title>
-        <description>&lt;p&gt;五月份看来是个结婚的热门月份！&lt;/p&gt;
-
-&lt;p&gt;3个同学依次向我发出了结婚的消息。有的本来是准备今年过年的时候结婚，因为疫情管制推迟到五一。有的是原本打算去年五一结婚，但是也是因为疫情推迟到今年。当收到他们的婚礼邀约的时候，我真的替他们开心。毕竟他们进入人生的下一阶段了，不管是为人夫还是为人妻。&lt;/p&gt;
-
-&lt;p&gt;依稀还记得第一次参加同学婚礼是18年的夏天，大学最老实的室友在群里发出一个重磅炸弹，他要结婚了！当时我们都觉得这个人女朋友都没有怎么可能结婚呢，肯定是骗我们的。但是后来才知道这小子原来是看着老实。第一次室友结婚，大家都很兴奋，5个室友加1个死党都从其他地方赶回武汉参加他的婚礼。迎亲对我们来说都很新鲜，激动的我在他婚礼前一晚都没睡觉，打了一晚上的吃鸡手游。结果第二天在他娶亲的路上睡了一路。&lt;/p&gt;
-
-&lt;p&gt;在第一个室友结婚一年后，第二个结婚也随之而来，只是这次更加戏剧化。因为我们怎么也没料到它赶上了疫情前的最后结婚日期。19年12月底结婚，当时虽然有一些传闻说武汉有传染病，但是我们并没有注意，室友们也都从全国各地赶去河南驻马店参加婚礼，记忆尤其深刻的是10个人在寒冷的河南冬天一起睡地铺。在室友家住了2天，布置婚房，娶亲，观看河南特色的婚礼表演。在婚礼结束后，我们都一起跑到武汉，有的去见老同学，有的是回家。我在武汉待了一晚后1月1号也回家了。20多天后武汉就封城了！只是没想到这个疫情至今还影响着大家的生活！&lt;/p&gt;
-
-&lt;p&gt;疫情管控下去年就只参加了一个高中同学的婚礼，同样也是奉子成婚，看来大家还是得做好安全措施！当时3，4月份的时候，这个高中同学还开玩笑说明年春天应该会迎来一波婴儿潮，没想到自己就贡献了一份力量，看来是身体力行的榜样！&lt;/p&gt;
-
-&lt;p&gt;今年同样由于疫情管制，结婚高峰期-春节前后没有任何同学结婚，只是在2月底参加了一个师姐兼老师的婚礼，倒霉的是Airpods Pro在参加婚礼的时候遗失了，真的是流年不利。&lt;/p&gt;
-
-&lt;p&gt;再就是今年的五一了，2个大学同学结婚。不过此时身处新加坡所以没有去参加。如果以后去了美国就再也不可能参加同学的婚礼了吧！不过这些婚礼的经历都很有意思，虽然舟车劳顿也很辛苦，特别是那些已经工作的同学，请假成本过高，有的还是远隔几千公里。&lt;/p&gt;
-
-&lt;p&gt;当然，写到这里这篇文章的铺垫也做的差不多了（还挺长），本来是出国前已将微信签名改成“不在国内，婚礼勿扰”，但是奈何同学邀请热情太过于强烈，我这么明显的拒绝也不太好，所以将其删除。只是这每个的份子钱还是让身为无产阶级的我失血过多，所以在这里特此声明一下，以后不管那位同学的婚礼邀请，都是300元的新婚祝福，反正也是个心意，大家就都不必为难自己了，毕竟等别人结婚的时候自己的肉割的也是挺疼的。想到这里，还是觉得当初高中同学定下的288的份子钱太明智了。&lt;/p&gt;
-
-&lt;p&gt;最后，祝愿在5月末结婚的阿奇同学新婚快乐！&lt;/p&gt;
-</description>
-        <pubDate>2021-06-17</pubDate>
-        <link>http://localhost:4000/articles/2021-05/Some-Thoughts-About-Weddding</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2021-05/Some-Thoughts-About-Weddding</guid>
-        
-        
-        <category>life</category>
-        
-      </item>
-    
-      <item>
-        <title>Materials and steps for applying US visa in Singapore</title>
-        <description>&lt;p&gt;自和导师讨论去新加坡办理美签后，于是2月底和3月初一直在准备赴新加坡事宜。今已于3月24日入境新加坡，特此记录办理新加坡签证所需材料及所需办理时间，以备后来者参考。同时也列出办理美签所需材料（仅作参考），不同学科按情况准备。&lt;/p&gt;
-
-&lt;h3 id=&quot;新加坡签证所需材料&quot;&gt;新加坡签证所需材料&lt;/h3&gt;
-
-&lt;p&gt;目前新加坡驻华使馆不接受个人申请旅游签证，必须通过旅行社代办，而且每个领区所代办的旅行社不同，如果有代办需求，请查找领区内有资格代办的旅行社。代办签证费300元人民币，其中包括30新元的签证费，其余部分为旅行社代办费，请注意300元定价是新加坡驻华使馆制定的，全国统一价，如果旅行社代办签证费超过300元，请更换其他的旅行社。注意的是新加坡使馆领区是按照个人户口所在地区分，请找自己户口所在地内有旅行社。在找好代办旅行社后，旅行社会让你提供电子材料给他们审核，电子材料审核通过后才会通知你寄送纸质材料。下面是办理新加坡签证所需材料（不同的旅行社可能有些许区别）：&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;身份证复印件&lt;/li&gt;
-  &lt;li&gt;护照复印件（有的旅行社要求原件，请按照旅行社要求提供）&lt;/li&gt;
-  &lt;li&gt;户口本复印件&lt;/li&gt;
-  &lt;li&gt;存款证明&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://safetravel.ica.gov.sg/atp/apply-now&quot;&gt;Air Traveal Pass(ATP)&lt;/a&gt; (建议在申请新加坡签证前2-3天申请)&lt;/li&gt;
-  &lt;li&gt;证件照 （2张2寸）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;ATP的有效期为7天，过期可以再申请。如果申请签证时的ATP在入境时已过期，请在入境前重新申请，确保持有有效的ATP入境。在成功申请ATP后，ica会在ATP邮件中附带&lt;a href=&quot;/assets/Materials_And_Steps_For_Applying_Singapore_Visa/ATP_Checklist.pdf&quot;&gt;CheckList&lt;/a&gt;，包涵旅行前，入关，抵达新加坡后所有代办事项。请详细阅读此CheckList，确保所有旅行前代办事项都已办理完成。(该CheckList是3月份的，请大家以收到的Checklist为准)&lt;/p&gt;
-
-&lt;h5 id=&quot;1-旅行保险&quot;&gt;1. 旅行保险&lt;/h5&gt;
-
-&lt;p&gt;在入境新加坡前必须购买旅行保险，其覆盖COVID-19相关的医疗和住院费用，最低保单为30,000新币，一般购买一个月的保险，费用大概200RMB（40新币），根据不同的保险公司有些许差别。&lt;a href=&quot;https://safetravel.ica.gov.sg/health/travelinsurance&quot;&gt;此链接为ica推荐的保险列表&lt;/a&gt;，&lt;strong&gt;在购买保险后请打印保单以备新加坡海关检查&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;h5 id=&quot;2-covid-19核酸检测预约&quot;&gt;2. COVID-19核酸检测预约&lt;/h5&gt;
-
-&lt;p&gt;在抵达新加坡后，需在机场进行核酸检测，且需在起飞之前在&lt;a href=&quot;https://safetravel.changiairport.com/#/&quot;&gt;樟宜机场网站&lt;/a&gt;预约并支付核酸检测费用160新币。检测结果一般在5-6小时内出来，并通过邮箱发送给旅客。如果为阴性，则可解除隔离。在预约核酸检测后，机场会给你发送一封邮件，里面包含一个二维码，请把二维码下载到手机里面，在机场核酸检测的时候，工作人员会扫描二维码，进行核酸检测流程。&lt;/p&gt;
-
-&lt;h5 id=&quot;3-预订隔离酒店&quot;&gt;3. 预订隔离酒店&lt;/h5&gt;
-
-&lt;p&gt;在核酸检测完，需乘坐出租车前往隔离酒店，但是并没有人监督，可能是相信旅客能自觉遵守吧。隔离酒店须在起飞前就预订好，关于预订酒店是否为隔离酒店请查看此&lt;a href=&quot;https://www.sha.org.sg&quot;&gt;网站&lt;/a&gt;，或者可以拨打酒店电话或者发邮件给酒店直接咨询（前台一般都会讲中文）。建议隔离酒店不用订太久，2-3天就够了。解除隔离后就可以实地去各个酒店看一下，再决定长期居住的酒店。&lt;/p&gt;
-
-&lt;h5 id=&quot;4-tracetogether-下载及新加坡手机卡预订&quot;&gt;4. TraceTogether 下载及新加坡手机卡预订&lt;/h5&gt;
-
-&lt;p&gt;TraceTogether 类似国内健康码扫码软件，需绑定手机。目前貌似国内的手机卡在国内没法激活，但是不知道是不是由于网络的原因。在国内登机前工作人员（厦门高崎机场）会检查是否下载TraceTogether和在樟宜机场预约手机卡。工作人员会让你扫描二维码并跳转到相应网站进行预约，在提交预约时可能会卡顿，请登录邮箱查看是否收到预约邮件，然后将预约邮件给工作人员检查。&lt;/p&gt;
-
-&lt;h5 id=&quot;5-sg-arrival-card&quot;&gt;5. SG Arrival Card&lt;/h5&gt;
-
-&lt;p&gt;在入境前3天，通过&lt;a href=&quot;https://eservices.ica.gov.sg/sgarrivalcard/&quot;&gt;SG Arrival Card&lt;/a&gt;提交你的旅行和健康历史.&lt;/p&gt;
-
-&lt;h5 id=&quot;6-国内出境海关健康申报&quot;&gt;6. 国内出境海关健康申报&lt;/h5&gt;
-
-&lt;p&gt;在出境前要提前进行海关健康申报，可以提前&lt;strong&gt;24小时&lt;/strong&gt;通过“中国海关”微信小程序或者点击&lt;a href=&quot;https://s.xiamenair.com/9fe377e&quot;&gt;链接&lt;/a&gt;进行申报，此链接仅为厦门高崎机场出境，详情链接请查看航空公司所发短信。&lt;/p&gt;
-
-&lt;h3 id=&quot;申请美国签证所需材料及步骤&quot;&gt;申请美国签证所需材料及步骤&lt;/h3&gt;
-
-&lt;p&gt;美国驻新加坡大使馆可以为非新加坡居民提供签证服务，在确定要赴新加坡办理美签后，请在尽量在国内准备好美签所需材料。接下来将介绍申请美签步骤。&lt;/p&gt;
-
-&lt;h5 id=&quot;1-转移cgi账户&quot;&gt;1. 转移cgi账户&lt;/h5&gt;
-
-&lt;p&gt;新加坡和中国大陆预约美签面签都是使用cgi系统，所以如果之前在国内注册过cgi账户请将账户转移到新加坡。具体可以通过邮件或者电话联系大使馆（驻华大使馆或者驻新加坡大使馆）。其中电话联系效率较高，具体为拨打010-56794700（北京驻华大使馆）然后语音提示按1-2-2-2-5接通人工客服。可以和工作人员说转移cgi账户到新加坡，工作人员会要求提供护照信息和个人信息以确认，之后会要求你拼写新加坡的英文单词（Singapore）。注意：如果之前在国内缴过签证费，将cgi账户转移到新加坡后，国内账户的签证费会失效。也就是如果你再将cgi帐号转回国内，你必须再缴纳签证费后才能预约，之前的签证费已经无效。&lt;/p&gt;
-
-&lt;h5 id=&quot;2-缴纳签证费及预约签证面试&quot;&gt;2. 缴纳签证费及预约签证面试&lt;/h5&gt;
-
-&lt;p&gt;缴纳美签签证费可选选项已在&lt;a href=&quot;https://www.ustraveldocs.com/sg_mn/sg-niv-paymentinfo.asp&quot;&gt;大使馆官网&lt;/a&gt;列出。国内的信用卡都不可用于缴费，如果不着急预约，可以来新加坡之前后去邮局缴费再预约。如果想尽早预约，可以联系新加坡的朋友代付后预约。如果没有新加坡朋友可以通过咸鱼代付，注：签证费大概在1100 RMB 左右，请酌情考虑中介代缴费用。&lt;/p&gt;
-
-&lt;h5 id=&quot;3-签证所需材料&quot;&gt;3. 签证所需材料&lt;/h5&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;I-20 表格&lt;/li&gt;
-  &lt;li&gt;线下课程证明，或者线上线下混和课程证明&lt;/li&gt;
-  &lt;li&gt;照片 （2张）&lt;/li&gt;
-  &lt;li&gt;护照&lt;/li&gt;
-  &lt;li&gt;成绩单（本科，研究生都准备）&lt;/li&gt;
-  &lt;li&gt;SEVIS 缴费确认信&lt;/li&gt;
-  &lt;li&gt;签证预约确认信&lt;/li&gt;
-  &lt;li&gt;DS-160 确认信&lt;/li&gt;
-  &lt;li&gt;录取通知书&lt;/li&gt;
-  &lt;li&gt;学位证书&lt;/li&gt;
-  &lt;li&gt;TOFEL 成绩单（可选）&lt;/li&gt;
-  &lt;li&gt;研究计划&lt;/li&gt;
-  &lt;li&gt;导师CV （包括之前的导师和去美国的导师）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;上述材料只是本人所准备，化学专业，仅供参考，具体材料按照学科准备。&lt;/p&gt;
-
-&lt;p&gt;希望大家都能顺利到新加坡，早日过美签。&lt;/p&gt;
-
-</description>
-        <pubDate>2021-06-17</pubDate>
-        <link>http://localhost:4000/articles/2021-04/Materials_and_Steps_For_Applying_Singapore_Visa</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2021-04/Materials_and_Steps_For_Applying_Singapore_Visa</guid>
-        
-        
-        <category>traveling</category>
         
       </item>
     
