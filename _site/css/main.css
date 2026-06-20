@@ -23,6 +23,7 @@
 /** Hide but maintain layout */
 /* Global Variables */
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400,400italic|Roboto+Mono);
+@import url(https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Noto+Serif+SC:wght@600&display=swap);
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
@@ -581,19 +582,19 @@ pre code span { word-break: break-all; }
 .highlight .vi { color: #B8860B; }
 .highlight .il { color: #666666; }
 
-.navigatebar { display: flex; flex-direction: row; align-items: center; width: 100%; padding-top: 0px; padding-bottom: 0px; border-bottom: 0.5px solid #EEE; box-shadow: 0 2px 10px -1px rgba(0, 0, 0, 0.05); position: relative; }
+.navigatebar { display: flex; flex-direction: row; align-items: center; width: 100%; padding: 12px 20px; background-color: #fff; border-bottom: 1px solid #EBEBEB; box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06); position: relative; box-sizing: border-box; }
 
-.navigatebar-button { margin-left: 10px; margin-right: 10px; color: #888; font-size: 28px; z-index: 100; }
+.navigatebar-button { margin-left: 6px; margin-right: 6px; font-size: 15px; font-weight: 600; letter-spacing: 0.03em; z-index: 100; }
 
-.navigatebar-button a { color: #888; text-decoration: none; }
+.navigatebar-button a { color: #555; text-decoration: none; padding: 4px 8px; border-radius: 4px; transition: background-color 0.2s, color 0.2s; }
 
-.navigatebar-button a:hover { color: #73BC83; }
+.navigatebar-button a:hover { color: #73BC83; background-color: #f5f5f5; }
 
-.navigatebar-slogan { flex: 1; text-align: center; color: #888; font-size: 18px; position: absolute; width: 100%; height: 100%; text-align: center; line-height: 70px; }
+.navigatebar-mine { margin-left: 4px; flex: 1; font-size: 17px; }
 
-.navigatebar-mine { margin-left: 2%; flex: 1; }
+.navigatebar-mine a { color: #333 !important; font-weight: 700; }
 
-.navigatebar-about { margin-right: 20px; }
+.navigatebar-about { margin-right: 8px; }
 
 /* LAYOUT CSS */
 .cover { background-color: #f5f5f5; position: fixed; text-align: center; width: 100%; min-height: 400px; padding: 30px 15px 20px; z-index: 1; }
@@ -648,19 +649,23 @@ ul.tag-cloud li a.post-tag { border-radius: 0.2em; }
 .archive ul { list-style: none; }
 .archive ul li { margin: 1em auto; }
 
-.post-listing { background-color: #fff; position: absolute; top: 400px; z-index: 233; width: 100%; padding: 40px 40px 0; -webkit-transform: translate3d(0, 0, 1px); transform: translate3d(0, 0, 1px); }
-@media only screen and (min-width: 600px) { .post-listing { padding: 50px 30px 0; } }
-@media only screen and (min-width: 992px) { .post-listing { height: 100vh; overflow-y: scroll; position: initial; top: 0; } }
+.post-listing { background-color: #fff; position: relative; top: 0; z-index: 233; width: 100%; padding: 20px 15px 0; -webkit-transform: translate3d(0, 0, 1px); transform: translate3d(0, 0, 1px); }
+@media only screen and (min-width: 600px) { .post-listing { padding: 40px 30px 0; } }
+@media only screen and (min-width: 992px) { .post-listing { height: 100vh; overflow-y: scroll; position: initial; top: 0; padding: 40px 40px 0; } }
 
 .image-credit { float: right; font-weight: bold; font-style: italic; color: #09ABF6; font-size: 13px; padding-right: 20px; }
 
-section.post-listing-layout { margin-bottom: 20px; padding-left: 15%; padding-right: 15%; }
+section.post-listing-layout { margin-bottom: 20px; padding-left: 3%; padding-right: 3%; }
+@media only screen and (min-width: 600px) { section.post-listing-layout { padding-left: 8%; padding-right: 8%; } }
+@media only screen and (min-width: 992px) { section.post-listing-layout { padding-left: 15%; padding-right: 15%; } }
 
-section.post-layout { margin-bottom: 40px; padding-left: 15%; padding-right: 15%; }
+section.post-layout { margin-bottom: 40px; padding-left: 3%; padding-right: 3%; }
+@media only screen and (min-width: 600px) { section.post-layout { padding-left: 8%; padding-right: 8%; } }
+@media only screen and (min-width: 992px) { section.post-layout { padding-left: 15%; padding-right: 15%; } }
 
 .back-home a { font-size: 13px; font-weight: bold; color: #09ABF6; border: 1px solid rgba(115, 115, 115, 0.87); border-radius: 0.4em; padding: 0.5em 1em; }
 
-.post-title-link { color: #black; font-size: 30px; font-weight: bold; margin-left: 0px; }
+.post-title-link { color: #222; font-size: 22px; font-weight: 600; font-family: 'Playfair Display', 'Noto Serif SC', Georgia, serif; line-height: 1.3; margin-left: 0px; }
 .post-title-link:hover, .post-title-link:focus { color: #707070; }
 
 .post-meta { font-size: 13px; font-weight: bold; }
@@ -682,13 +687,14 @@ a.read-more { padding: 5px 8px; }
 .post-line { margin-left: 20px; margin-right: 20px; padding-top: 20px; padding-bottom: 20px; border-bottom: 1px solid #DDD; }
 
 #post { padding-bottom: 50px; }
-#post .post-header { margin: 0 auto 50px; text-align: center; font-size: 25 px; font-weight: bold; }
+#post .post-header { margin: 0 auto 50px; text-align: center; font-family: 'Playfair Display', 'Noto Serif SC', Georgia, serif; font-size: 26px; font-weight: 600; }
+#post .post-content { font-family: 'Noto Serif SC', Georgia, serif; font-size: 16px; line-height: 1.9; }
 
-#post h1 { margin: 0.5em 0 1em; }
+#post h1 { margin: 0.5em 0 1em; font-family: 'Playfair Display', 'Noto Serif SC', Georgia, serif; }
 
-#post h2 { margin: 2em 0 0.8em; padding-bottom: 0.7em; border-bottom: 1px solid #ddd; }
+#post h2 { margin: 2em 0 0.8em; padding-bottom: 0.7em; border-bottom: 1px solid #ddd; font-family: 'Playfair Display', 'Noto Serif SC', Georgia, serif; }
 
-#post h3 { margin: 1.75em 0 1.2em; position: relative; }
+#post h3 { margin: 1.75em 0 1.2em; position: relative; font-family: 'Playfair Display', 'Noto Serif SC', Georgia, serif; }
 
 #page { padding-bottom: 50px; min-height: 70vh; }
 #page .page-header { margin: 0 auto 50px; }

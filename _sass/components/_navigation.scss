@@ -3,54 +3,48 @@
     flex-direction: row;
     align-items: center;
     width: 100%;
-
-    padding-top: 0px;
-    padding-bottom: 0px;
-
-    border-bottom: 0.5px solid #EEE;
-
-    box-shadow: 0 2px 10px -1px rgba(0,0,0,0.05);
-
+    padding: 12px 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #EBEBEB;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.06);
     position: relative;
+    box-sizing: border-box;
 }
 
 .navigatebar-button {
-    margin-left: 10px;
-    margin-right: 10px;
-    color: #888;
-    font-size: 28px;
-    // font-family: angelinaFont;
+    margin-left: 6px;
+    margin-right: 6px;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
     z-index: 100;
 }
 
 .navigatebar-button a {
-    color: #888;
+    color: #555;
     text-decoration: none;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: background-color 0.2s, color 0.2s;
 }
 
 .navigatebar-button a:hover {
     color: #73BC83;
-}
-
-.navigatebar-slogan {
-    flex: 1;
-    text-align: center;
-    color: #888;
-    font-size: 18px;
-
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    text-align: center;
-    line-height: 70px;
+    background-color: #f5f5f5;
 }
 
 .navigatebar-mine {
-    margin-left: 2%;
+    margin-left: 4px;
     flex: 1;
+    font-size: 17px;
+}
+
+.navigatebar-mine a {
+    color: #333 !important;
+    font-weight: 700;
 }
 
 .navigatebar-about {
-    margin-right: 20px;
+    margin-right: 8px;
 }
 
